@@ -1,3 +1,8 @@
 # SNKRS-Supple-Nike-Password-Changer
-Windows ONLY right now
-Please have your accounts in email:pass form in a text file
+WINDOWS ONLY. 
+
+1. Unzip
+2. Open and run "Nike Password Bot.exe"
+3. Enter old password
+4. Enter new password
+5. Click "start" and then select the text document where your accounts are stored (email:pass format only)
